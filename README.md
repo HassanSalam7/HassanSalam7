@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HassanSalam7
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on any work
 - 📫 To reach me by email=> aldoonhasan97@gmail.com
 - 😄 Pronouns: no need
